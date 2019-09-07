@@ -1,1 +1,1 @@
-c_scripts
+Simpletron diretory
