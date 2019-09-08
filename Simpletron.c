@@ -46,7 +46,7 @@ int main()
 
             }
         printf("%i ? ", x);
-        scanf("%x", &input);
+        scanf("%i", &input);
 
         if (input == -99999) {
 
