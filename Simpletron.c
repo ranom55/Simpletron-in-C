@@ -32,7 +32,7 @@ int main()
     int x = 0;
     int input;
 
-    printf("*** Bem vindo ao Simpletron! ***\n*** Favor digitar seu programa, uma instrucao ***\n*** (ou palavra de dados) por vez. Mostrarei ***\n*** o numero do local e uma interrogacao (?). ***\n*** Voce, entao, devera digitar a palavra para esse ***\n*** local. Digite a sentinela -99999 para ***\n*** encerrar a entrada do seu programa. ***\n\n");
+    printf("*** Bem vindo ao Simpletron! ***\n*** Favor digitar seu programa, uma instrucao ***\n*** (ou palavra de dados) por vez. Mostrarei ***\n*** o numero do local e uma interrogacao (?). ***\n*** Voce, entao, devera digitar a palavra para esse ***\n*** local. Digite a sentinela -1869f para ***\n*** encerrar a entrada do seu programa. ***\n\n");
 
 
 
