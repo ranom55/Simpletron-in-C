@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#define MEMSIZE 100
 // E/S OPERATIONS
 #define READ 10
 #define WRITE 11
@@ -36,7 +36,7 @@ int main()
 
 
 
-    while (1) {
+    while (x < MEMSIZE) {
 
         if (x < 10) {
 
