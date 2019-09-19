@@ -167,7 +167,14 @@ int main()
                     instructionCounter = operand;
 
                         }
-
+                else {
+                
+                    ++instructionCounter;
+                
+                }
+                
+                
+                
 
                 break;
 
@@ -178,7 +185,12 @@ int main()
                     instructionCounter = operand;
 
                     }
-
+                  else {
+                
+                    ++instructionCounter;
+                
+                }
+                
                 break;
 
                case HALT:
